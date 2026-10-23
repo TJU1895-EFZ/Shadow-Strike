@@ -40,3 +40,9 @@ python -m http.server 8000
 ```
 
 > 需要联网加载 Three.js CDN。
+
+## 许可证
+
+本项目基于 [Apache License 2.0](LICENSE) 开源。
+
+游戏使用的 [Three.js](https://threejs.org/) 同样以 MIT 许可证发布。
